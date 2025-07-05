@@ -1,0 +1,29 @@
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(#FFFFFF, #EBDCFF);
+}
+
+* {
+   font-family: "Plus Jakarta Sans", sans-serif;
+   margin: 0;
+   padding: 0;
+}
+#banner {
+  /* margin-top: 100px;
+  margin-bottom: 120px;
+  margin-left: auto;
+  margin-right: auto; */
+
+  /* will take 100px margin from top and bottom
+  side and 50px margin from left and right side */
+  /* margin: 100px 50px; */
+
+  /* will take 100px from top side, 10px from
+  right side, 25px from bottom side, 50px from left side */
+  margin: 100px 100px 25px 50px;
+
+  width: 600px;
+  background-color: bisque;
+
+
+}
